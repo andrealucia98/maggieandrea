@@ -1,0 +1,143 @@
+body{
+	color: #000;
+	font-size: 12px;
+}
+	
+#sec-slides{
+	colo: #000;
+	text-align: left;
+}
+
+.btn-rectangulo{
+	background-color:transparent;
+	border:1px solid #fff;
+	color: #FE9903;
+	border-color: #FE9903;
+	border-radius: 0;
+	padding: 10px 30px;
+	font-weight:600;
+}
+
+
+#sec-slides h1{
+	font-size: 60px;
+	font-weight: 600;
+	color:  #FE9903;
+}
+
+#sec-services h2{
+	text-transform: uppercase;
+	color:rgba(43,56,161,1.00);
+	padding: 35px 0;
+	text-align: center;
+}
+
+
+#sec-services p{
+	font-size: 16px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.titulo::after{
+	content: '';
+	height: 2px;
+	background-color: rgba(43,56,161,1.00);
+	width: 100px;
+	display: block;
+	margin: 10px auto;
+
+}
+
+.servicios{
+	background-color: #E8E8E8;
+	text-align: center;
+	margin-top: 20px;
+}
+
+#sec-services i{
+	color: #2B38A1;
+	font-size: 50px;
+	text-align: center;
+}
+
+#sec-services{
+	text-align: center;
+
+}
+
+#sec-welcome h2{
+	text-transform: uppercase;
+	color:rgba(43,56,161,1.00);
+	padding: 35px 0;
+	text-align: center;
+}
+
+#sec-welcome p{
+	font-size: 16px;
+	text-align: center;
+	margin-bottom: 20px;}
+
+#sec-welcome{
+	padding: 45px 0px;
+}
+
+
+#sec-clients{
+	text-align: center;
+	padding: 45px 0;
+	
+}
+
+.titulo::after{
+	content: '';
+	height: 1px;
+	background-color: #fff;
+	width: 100px;
+	display: block; 
+	margin: 10px auto;
+}
+
+#sec-clients h2{
+	color: #2435a1;
+	text-transform: uppercase;
+	padding: 35px 0;
+}
+
+#sec-clients p{
+	padding: 25px 0;
+}
+
+#sec-gallery {
+	text-align: center;
+	padding: 45px 0;	
+	background-color: #2435a1;
+	color: rgba(255,255,255,1.00)
+}
+
+#sec-gallery h2{
+	color: #fd9c00;
+	text-transform: uppercase;
+	padding: 35px 0;
+}
+
+#sec-gallery p{
+	padding: 25px 0;
+}
+
+.titulo::after{
+	content: '';
+	height: 1px;
+	background-color: #fff;
+	width: 100px;
+	display: block; 
+	margin: 10px auto;
+}
+
+footer{
+	padding: 45px 0;
+	background-color: #2435a1;
+	color: rgba(255,255,255,1.00);
+	text-align: center;
+}
+
